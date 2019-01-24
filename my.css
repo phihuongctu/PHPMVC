@@ -1,0 +1,36 @@
+*{
+	
+	margin: 0;
+}
+.dangkitv{
+	border: 1px solid grey;
+	width: 400px;
+	
+	margin: 50px auto;
+}
+.dangkitv h2{
+	background: blue;
+	color: white;
+}
+.dangkitv form{
+	margin-top: 20px;
+}
+.dangkitv input{
+	margin-top: 20px;
+}
+.nut input{
+	background: green;
+	color:white;
+	width: 100px;
+	padding:10px 10px;
+}
+.danhsach{
+	
+	width: 500px;
+	margin: auto;
+	margin-top: 50px;
+}
+.danhsach table th{
+	border: 1px solid blue;
+	
+}
